@@ -1,2 +1,2 @@
-# online-shop
-The online shop you can do easy.
+# The online shop 
+This is a practical project, and you can you use it.
